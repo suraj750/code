@@ -10,6 +10,7 @@ public class newclass
 		int a=10;
 		System.out.println(a);
 		
+		int v=21;
 	}
 	
 	
